@@ -16,7 +16,7 @@ Cette formation a été initialement créée par Météo-France pour ses salari�
 La formation alterne cours et travaux pratiques. Elle est prévue pour être suivie dans l'ordre suivant :
 
   * Cours 00    - Programme de la formation
-  * Cours 01    - Introduction au Machine Learning
+  * Cours 01    - Introduction au Machine Learning - Vidéo : https://youtu.be/9OhTBItdw18
   * Cours TP 01 - Python pour Data Scientists
   * TP 01       - Python pour Data Scientists
   * TP 02       - Reconnaissance de chiffres manuscrits (modèles linéaires, random forest...)
