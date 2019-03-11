@@ -65,6 +65,10 @@ Dans le dossier de chaque TP, vous trouverez :
 
 Les contributions pour améliorer ce cours ou pour le compléter sont bienvenues.
 
+Si vous souhaitez contribuer, plusieurs issues sont déjà ouvertes et attendent votre aide.
+
+Vous pouvez également soumettre des pull requests pour apporter des corrections mineures. Si vous souhaitez apporter des modifications importantes, merci d'ouvrir d'abord une issue.
+
 ## Crédits
 
 Contributeurs ayant participé à la création de cette formation : Lior Perez, Simon Moisselin, Valentin Fouqueau
