@@ -113,7 +113,7 @@ Introduction au deep Learning
 
 ## Intuition
 
-Un réseau de neurones peut approcher n'importe quelle fonction.
+Un réseau de neurones peut approcher n'importe quelle fonction continue.
 
 ![center 2_segments](./Images/04-intro_DL/approche_courbe_segments.png)
 <center>Couche cachée à 2 neurones &nbsp;&nbsp;&nbsp; Couche cachée à 4 neurones
