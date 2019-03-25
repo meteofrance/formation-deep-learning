@@ -111,11 +111,13 @@ Introduction au deep Learning
 
 <!-- *page_number: true -->
 
-## Récapitulons : un neurone dans un réseau 
+## Intuition
 
-+ Combinaison linéaire puis fonction d'activation
+Un réseau de neurones peut approcher n'importe quelle fonction.
 
-![Résumé neurone](./Images/04-intro_DL/résumé_neurone2.png)
+![center 2_segments](./Images/04-intro_DL/approche_courbe_segments.png)
+<center>Couche cachée à 2 neurones &nbsp;&nbsp;&nbsp; Couche cachée à 4 neurones
+</center>
 
 ---
 
