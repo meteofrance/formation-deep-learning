@@ -41,7 +41,7 @@
 
 <br/>
 
-Introduction au deep Learning
+Introduction au Deep Learning
 =
 
 <br/>
