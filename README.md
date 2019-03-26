@@ -20,7 +20,7 @@ La formation alterne cours et travaux pratiques. Elle est prévue pour être sui
   * Cours TP 01 - Python pour Data Scientists
   * TP 01       - Python pour Data Scientists
   * TP 02       - Reconnaissance de chiffres manuscrits (modèles linéaires, random forest...)
-  * Cours 02    - Introduction au Deep Learning
+  * Cours 02    - Introduction au Deep Learning - Vidéo : https://youtu.be/F3F75xnhG0M
   * Cours 03    - La librairie Keras
   * TP 03       - Réseaux convolutionnels : reconnaissance de chiffres manuscrits avec Keras
   * Cours TP 04 - Visualisation et Transfer Learning
