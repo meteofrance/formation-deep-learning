@@ -37,7 +37,7 @@
 
 <!-- *page_number: true -->
 
-![Logo météo](./Images/logo2.png)
+![Logo météo](./Images/logo2.PNG)
 
 <br/>
 
@@ -55,7 +55,7 @@
 
 <center>
 
-![Part de Marché](./Images/03-python_data_science/part_marché.png)
+![Part de Marché](./Images/03-python_data_science/part_marché.PNG)
 
 </center>
 
@@ -65,7 +65,7 @@
 
 ## Librairies Pythons 
 
-![librairies python](./Images/03-python_data_science/librairies.png)
+![librairies python](./Images/03-python_data_science/librairies.PNG)
 
 ---
  
@@ -73,7 +73,7 @@
 
 ## Lire des fichiers Excel : utilisation de la Librairie Pandas 
 
-![Excel](./Images/03-python_data_science/pandas.png)
+![Excel](./Images/03-python_data_science/pandas.PNG)
 
 ---
   
@@ -81,7 +81,7 @@
 
 ## Importer un fichier Excel avec Pandas
 
-![code d'importation](./Images/03-python_data_science/code_pandas.png)
+![code d'importation](./Images/03-python_data_science/code_pandas.PNG)
 
 ---
   
@@ -89,7 +89,7 @@
 
 ## Importer un fichier csv avec Pandas
 
-![importation csv](./Images/03-python_data_science/code_pandas2.png)
+![importation csv](./Images/03-python_data_science/code_pandas2.PNG)
 
 *  Préparation du jeu de données (X,Y) pour le modèle
 
@@ -105,7 +105,7 @@
 
 ##### Exemple de code sur le dataframe housing:
 
-![Housing.desribe output](./Images/03-python_data_science/code_pandas3.png)
+![Housing.desribe output](./Images/03-python_data_science/code_pandas3.PNG)
 
 ---
   
@@ -113,7 +113,7 @@
 
 ## Utilisation de Pandas pour vérifier les données
 
-![housing.hist](./Images/03-python_data_science/code_pandas4.png)
+![housing.hist](./Images/03-python_data_science/code_pandas4.PNG)
 
 ---
   
@@ -121,7 +121,7 @@
 
 ## Présentation de Sklearn
 
-![Sklearn](./Images/03-python_data_science/sklearn.png)
+![Sklearn](./Images/03-python_data_science/sklearn.PNG)
 
 ---
   
@@ -131,7 +131,7 @@
 
 <center>
 
-![code_sklearn](./Images/03-python_data_science/sklearn_code.png)
+![code_sklearn](./Images/03-python_data_science/sklearn_code.PNG)
 
 </center>
 
@@ -146,7 +146,7 @@
  
  Exemple de code :
 
-![Code sklearn](./Images/03-python_data_science/sklearn_code1.png)
+![Code sklearn](./Images/03-python_data_science/sklearn_code1.PNG)
 
 ---
   
@@ -156,7 +156,7 @@
 
  ● Prédiction d’une classe et des probabilités pour chaque classe
 
-![sklearn](./Images/03-python_data_science/sklearn_code2.png) 
+![sklearn](./Images/03-python_data_science/sklearn_code2.PNG) 
 
 ---
   
@@ -171,6 +171,6 @@
 
 
 
-![diagramme](./Images/03-python_data_science/diagramme.png)
+![diagramme](./Images/03-python_data_science/diagramme.PNG)
 
 </center>

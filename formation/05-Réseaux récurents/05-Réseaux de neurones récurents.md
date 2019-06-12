@@ -37,7 +37,7 @@
 
 <!-- *page_number: true -->
 
-![Logo météo](./Images/logo2.png)
+![Logo météo](./Images/logo2.PNG)
 
 <br/>
 
@@ -60,7 +60,7 @@
 
 <center>
 
-![image réseau](./Images/09-réseaux_récurents/réseau.png)
+![image réseau](./Images/09-réseaux_récurents/réseau.PNG)
 
 </center>
 
@@ -79,7 +79,7 @@ Selon Wikipédia :
 
 Exemples : 
 
-![Séries temporelles](./Images/09-réseaux_récurents/séries_temporelles.png) 
+![Séries temporelles](./Images/09-réseaux_récurents/séries_temporelles.PNG) 
 
 ---
 
@@ -105,7 +105,7 @@ Exemples :
 
 ## Les différents types de RNN 
 
-![image RNN](./Images/09-réseaux_récurents/RNN.png) 
+![image RNN](./Images/09-réseaux_récurents/RNN.PNG) 
 
 ---
 
@@ -113,7 +113,7 @@ Exemples :
 
 ## Exemple : prédiciton de lettre 
 
-![Image prédiciton de lettres](./Images/09-réseaux_récurents/prédiction_lettres.png)
+![Image prédiciton de lettres](./Images/09-réseaux_récurents/prédiction_lettres.PNG)
 
 ---
   
@@ -128,7 +128,7 @@ Première période : Réseau de neurone classique
 
 <center>
 
-![Image première pédiode](./Images/09-réseaux_récurents/prédiction_lettres2.png)
+![Image première pédiode](./Images/09-réseaux_récurents/prédiction_lettres2.PNG)
 
 </center>
 
@@ -141,7 +141,7 @@ Première période : Réseau de neurone classique
 Périodes suivantes - réseau de neurone presque classique :
 * la couche intermédiaire a une entrée supplémentaire : la sortie intermédiaire du réseau précédent
 
-![image période suivante](./Images/09-réseaux_récurents/prédiction_lettres3.png)
+![image période suivante](./Images/09-réseaux_récurents/prédiction_lettres3.PNG)
 
 ---
 
@@ -149,7 +149,7 @@ Périodes suivantes - réseau de neurone presque classique :
 
 ## Représentation en graphe 
 
-![graphe](./Images/09-réseaux_récurents/graphe.png) 
+![graphe](./Images/09-réseaux_récurents/graphe.PNG) 
 
 ---
  
@@ -157,7 +157,7 @@ Périodes suivantes - réseau de neurone presque classique :
 
 ## Représentation enroulée
 
-![graphe](./Images/09-réseaux_récurents/graphe2.png) 
+![graphe](./Images/09-réseaux_récurents/graphe2.PNG) 
 
 ---
 
@@ -165,7 +165,7 @@ Périodes suivantes - réseau de neurone presque classique :
 
 ## Autres exemples : Générer du Shakespeare 
 
-![texte Shakespeare](./Images/09-réseaux_récurents/shakespeare.png) 
+![texte Shakespeare](./Images/09-réseaux_récurents/shakespeare.PNG) 
 
 * Entraînement : tous les textes de Shakepeare
 * Puis on donne au réseau une première lettre, et il prédit la suite 
@@ -178,7 +178,7 @@ Périodes suivantes - réseau de neurone presque classique :
 
 <center>
 
-![Code LaTex](./Images/09-réseaux_récurents/Latex.png) 
+![Code LaTex](./Images/09-réseaux_récurents/Latex.PNG) 
 
 </center>
 
@@ -197,7 +197,7 @@ Périodes suivantes - réseau de neurone presque classique :
 
 <center>
 
-![image NetAtmo](./Images/09-réseaux_récurents/NetAtmo.png) 
+![image NetAtmo](./Images/09-réseaux_récurents/NetAtmo.PNG) 
 
 </center>
 
@@ -209,7 +209,7 @@ Périodes suivantes - réseau de neurone presque classique :
 
 <center>
 
-![image NetAtmo 2 ](./Images/09-réseaux_récurents/NetAtmo2.png) 
+![image NetAtmo 2 ](./Images/09-réseaux_récurents/NetAtmo2.PNG) 
 
 </center>
 
@@ -223,7 +223,7 @@ Périodes suivantes - réseau de neurone presque classique :
 
 <center>
 
-![image NetAtmo 3](./Images/09-réseaux_récurents/NetAtmo3.png) 
+![image NetAtmo 3](./Images/09-réseaux_récurents/NetAtmo3.PNG) 
 
 </center>
 
@@ -233,7 +233,7 @@ Périodes suivantes - réseau de neurone presque classique :
 
 ## Étude de cas NetAtmo 
 
-![image NetAtmo 4](./Images/09-réseaux_récurents/NetAtmo4.png) 
+![image NetAtmo 4](./Images/09-réseaux_récurents/NetAtmo4.PNG) 
 
 * La prédiciton est robuste aux pics anormaux de températures des stations NetAtmo (grises) 
 
@@ -245,7 +245,7 @@ Périodes suivantes - réseau de neurone presque classique :
 
 <center>
 
-![code Keras NetAtmo](./Images/09-réseaux_récurents/Keras_NetAtmo.png) 
+![code Keras NetAtmo](./Images/09-réseaux_récurents/Keras_NetAtmo.PNG) 
 
 </center>
 

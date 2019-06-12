@@ -35,7 +35,7 @@
 
 </style>
 
-![Logo météo](./Images/logo2.png)
+![Logo météo](./Images/logo2.PNG)
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 ## Architecture du classificateur d'images VGG16 
 
-![Schéma des couches](./Images/06-Transfer_learning/schema_couches.png)
+![Schéma des couches](./Images/06-Transfer_learning/schema_couches.PNG)
 
 ##### <center> Que se passe-t-il dans les différentes couches ? </center>
 
@@ -65,7 +65,7 @@
 
 <center>
 
-![image Layer 1](./Images/06-Transfer_learning/layer1.png) 
+![image Layer 1](./Images/06-Transfer_learning/layer1.PNG) 
 
 </center>
 
@@ -75,7 +75,7 @@
 
 ## Visualizing and Understanding Convolutional Networks (Zeiler & Fregus - 2014)
 
-![image Layer 2](./Images/06-Transfer_learning/layer2.png)
+![image Layer 2](./Images/06-Transfer_learning/layer2.PNG)
 
 ---
 
@@ -83,7 +83,7 @@
 
 ## Visualizing and Understanding Convolutional Networks (Zeiler & Fregus - 2014)
 
-![image Layer 3](./Images/06-Transfer_learning/layer3.png)
+![image Layer 3](./Images/06-Transfer_learning/layer3.PNG)
 
 ---
   
@@ -91,7 +91,7 @@
 
 ## Visualizing and Understanding Convolutional Networks (Zeiler & Fregus - 2014)
 
-![image Layer 4/5](./Images/06-Transfer_learning/layer4_5.png)
+![image Layer 4/5](./Images/06-Transfer_learning/layer4_5.PNG)
 
 ---
   
@@ -114,7 +114,7 @@
 
 ■ A partir d'un réseau déjà entrainé sur un autre jeu de données 
 
-![Transfer Learning](./Images/06-Transfer_learning/transfer.png)
+![Transfer Learning](./Images/06-Transfer_learning/transfer.PNG)
 
 ■ Remplacer la dernière couche 
 

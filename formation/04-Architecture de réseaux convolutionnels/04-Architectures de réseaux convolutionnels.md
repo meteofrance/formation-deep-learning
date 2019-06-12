@@ -35,7 +35,7 @@
  
 </style>
 
-![Logo météo](./Images/logo2.png)
+![Logo météo](./Images/logo2.PNG)
 
 <br/>
 
@@ -54,7 +54,7 @@
 
 ## Schema réseau convolutionnel
 
-![Réseaux convolutionnel](./Images/07-architecture/schema.png)
+![Réseaux convolutionnel](./Images/07-architecture/schema.PNG)
 
 ---
   
@@ -64,7 +64,7 @@
 
 <center>
 
-![Résultats ImageNet](./Images/07-architecture/ImageNet_Scores.png)
+![Résultats ImageNet](./Images/07-architecture/ImageNet_Scores.PNG)
 
 </center>
 
@@ -79,7 +79,7 @@
 
 <center>
 
-![1er réseau convolutionnel](./Images/07-architecture/Architecture_imagenet.png)
+![1er réseau convolutionnel](./Images/07-architecture/Architecture_imagenet.PNG)
 
 </center>
 
@@ -89,7 +89,7 @@
 
 ## LeNet : Code Keras
 
-![Code Keras commenté](./Images/07-architecture/Lenet_Keras.png)
+![Code Keras commenté](./Images/07-architecture/Lenet_Keras.PNG)
 
 ---
   
@@ -97,7 +97,7 @@
 
 ## Réseau AlexNet
 
-![Réseau AlexNet](./Images/07-architecture/AlexNet.png)
+![Réseau AlexNet](./Images/07-architecture/AlexNet.PNG)
 
 <center>
 
@@ -116,7 +116,7 @@ Gagnant ImageNet 2012
 
 <center>
 
-![Code keras 2 commenté](./Images/07-architecture/Alexnet_Keras.png)
+![Code keras 2 commenté](./Images/07-architecture/AlexNet_Keras.PNG)
 
 </center>
 
@@ -128,7 +128,7 @@ Gagnant ImageNet 2012
 
 <center>
   
-![Architecure VGG](./Images/07-architecture/Archi_VGG.png)
+![Architecure VGG](./Images/07-architecture/Archi_VGG.PNG)
 
 </center>
 
@@ -140,7 +140,7 @@ Gagnant ImageNet 2012
 
 <center>
 
-![VGG Keras](./Images/07-architecture/VGG_Keras.png)
+![VGG Keras](./Images/07-architecture/VGG_Keras.PNG)
 
 </center>
 
@@ -156,7 +156,7 @@ Gagnant ImageNet 2012
 
 <center>
 
-![Classification](./Images/07-architecture/Detection_temps_reel.png) 
+![Classification](./Images/07-architecture/Detection_temps_reel.PNG) 
 
 </center>
 
@@ -166,7 +166,7 @@ Gagnant ImageNet 2012
 
 ## Unet: Classification par pixel
 
-![Sortie U-net](./Images/07-architecture/Unet1.png)
+![Sortie U-net](./Images/07-architecture/Unet1.PNG)
 
 ---
 
@@ -176,7 +176,7 @@ Gagnant ImageNet 2012
 
 <center>
 
-![Modèle Unet](./Images/07-architecture/Unet2.png)
+![Modèle Unet](./Images/07-architecture/Unet2.PNG)
 
 
  -Encoder l’image à différentes
@@ -195,7 +195,7 @@ chaque échelle
 
 <center>
 
-![defloutage](./Images/07-architecture/Defloutage.png)
+![defloutage](./Images/07-architecture/Defloutage.PNG)
 
  -En entrée : images basses résolution
  
@@ -209,7 +209,7 @@ chaque échelle
 
 ## Super Resolution
 
-![Architecture defloutage](./Images/07-architecture/Defloutage2.png)
+![Architecture defloutage](./Images/07-architecture/Defloutage2.PNG)
 
 ---
   
@@ -219,7 +219,7 @@ chaque échelle
 
 <center>
 
-![Exemple ResNet](./Images/07-architecture/ResNet.png)
+![Exemple ResNet](./Images/07-architecture/ResNet.PNG)
 
 </center>
 
@@ -231,7 +231,7 @@ chaque échelle
 
 <center>
 
-![Modèle ResNet](./Images/07-architecture/ResNet2.png)
+![Modèle ResNet](./Images/07-architecture/ResNet2.PNG)
 
  -Convergence rapide
  
@@ -245,7 +245,7 @@ chaque échelle
 
 ## Inception v3 : l'un des meilleurs classificateur (Pourquoi ?)
 
-![modèle InceptionV3](./Images/07-architecture/InceptionV3.png)
+![modèle InceptionV3](./Images/07-architecture/InceptionV3.PNG)
 
 ---
 
@@ -261,7 +261,7 @@ chaque échelle
 
 * utilise un VGG pré-entrainé
 
-![Exemple de deep painterly](./Images/07-architecture/Deep_painterly.png)
+![Exemple de deep painterly](./Images/07-architecture/Deep_painterly.PNG)
 
 |copier/coller de la première image sur la seconde| image avant l'application des  CNNs |image après l'application des CNNs|
 |:--:|:--:|:--:|
@@ -272,7 +272,7 @@ chaque échelle
 
 ## Exemples
 
-![Exemple de deep painterly 2 ](./Images/07-architecture/Deep_painterly2.png)
+![Exemple de deep painterly 2 ](./Images/07-architecture/Deep_painterly2.PNG)
 
 ---
 
@@ -282,7 +282,7 @@ chaque échelle
 
 <center>
 
-![Photos célébrités](./Images/07-architecture/Célébrités.png)
+![Photos célébrités](./Images/07-architecture/Célébrités.PNG)
 
 Reconnaissez-vous ces célébrités ?
 
@@ -296,7 +296,7 @@ Reconnaissez-vous ces célébrités ?
 
 <center>
 
-![Photos célébrités](./Images/07-architecture/Célébrités.png)
+![Photos célébrités](./Images/07-architecture/Célébrités.PNG)
 
 Ces célébrités ont été inventées par des réseaux de neurones !
 
@@ -310,7 +310,7 @@ Ces célébrités ont été inventées par des réseaux de neurones !
 
 ## Generative Adversarial network
 
-![GAN](./Images/07-architecture/GAN.png)
+![GAN](./Images/07-architecture/GAN.PNG)
 
 ---
   
@@ -318,7 +318,7 @@ Ces célébrités ont été inventées par des réseaux de neurones !
 
 <center>
 
-![Photos célébrités](./Images/07-architecture/Célébrités.png)
+![Photos célébrités](./Images/07-architecture/Célébrités.PNG)
 
 </center>
 

@@ -34,7 +34,7 @@
  
 </style>
 
-![Logo météo](./Images/logo2.png)
+![Logo météo](./Images/logo2.PNG)
 
 <br/>
 
@@ -55,7 +55,7 @@ La Librairie Keras
 
 <center>
 
-![keras_général](./Images/05-Keras/general.png)
+![keras_général](./Images/05-Keras/general.PNG)
 
 <http://keras.io/>
 
@@ -99,7 +99,7 @@ La Librairie Keras
 
 ## Le modèle linéaire sur Keras
 
-![code_keras](./Images/05-Keras/code_keras.png)
+![code_keras](./Images/05-Keras/code_keras.PNG)
 
 * Le paramètre 1 de “Dense” correspond au nombre de modèles linéaires que je vais créer.
 * Le nombre de paramètres en sortie de la couche Dense est égal au nombre de modèles linéaires que je vais créer.
@@ -143,7 +143,7 @@ La Librairie Keras
 
 <center>
   
-![code_keras](./Images/05-Keras/code_keras2.png)
+![code_keras](./Images/05-Keras/code_keras2.PNG)
 
 </center>
 
@@ -153,7 +153,7 @@ La Librairie Keras
 
 ## Régression logistique avec le code Keras
 
-![code_keras](./Images/05-Keras/code_keras3.png)
+![code_keras](./Images/05-Keras/code_keras3.PNG)
 
 ---
   
@@ -161,7 +161,7 @@ La Librairie Keras
 
 ## Librairie scikit-learn comparée à la Librairie Keras
 
-![code_keras](./Images/05-Keras/code_keras4.png)
+![code_keras](./Images/05-Keras/code_keras4.PNG)
 
 ---
   
@@ -171,7 +171,7 @@ La Librairie Keras
 
 <center>
 
-![Exercice1](./Images/05-Keras/exercice1.png)
+![Exercice1](./Images/05-Keras/exercice1.PNG)
 
 #### Ecrivez le code Keras correspondant à ce réseau de neurones. 
 
@@ -187,7 +187,7 @@ La Librairie Keras
 
 <center>
 
-![Exercice2](./Images/05-Keras/exercice2.png)
+![Exercice2](./Images/05-Keras/exercice2.PNG)
 
 #### Ecrivez le code Keras correspondant à ce réseau de neurones. 
 
@@ -203,7 +203,7 @@ La Librairie Keras
 
 <center>
 
-![Exercice3](./Images/05-Keras/exercice3.png)
+![Exercice3](./Images/05-Keras/exercice3.PNG)
 
 #### Dessinez l’architecture correspondante
 
@@ -215,7 +215,7 @@ La Librairie Keras
 
 ## Exercice 4 
 
-![Exercice4](./Images/05-Keras/exercice4.png)
+![Exercice4](./Images/05-Keras/exercice4.PNG)
 
 #### Donnez le code Keras correspondant à ce réseau de neurones. 
 
@@ -225,7 +225,7 @@ La Librairie Keras
 
 ## Visualisation de l’entrainement :
 
-![TensorBoard](./Images/05-Keras/tensorboard.png)
+![TensorBoard](./Images/05-Keras/tensorboard.PNG)
 
 ---
 

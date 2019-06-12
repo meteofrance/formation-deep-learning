@@ -37,7 +37,7 @@
 
 <!-- *page_number: true -->
 
-![Logo météo](./Images/logo2.png)
+![Logo météo](./Images/logo2.PNG)
 
 <br/>
 
@@ -54,7 +54,7 @@ Introduction au Deep Learning
 
 # Le Deep Learning 
 
-![image Dl](./Images/04-intro_DL/DL.png)
+![image Dl](./Images/04-intro_DL/DL.PNG)
 
 ---
 
@@ -79,7 +79,7 @@ Introduction au Deep Learning
 
 <center>
 
-![Sigmoid/relu](./Images/04-intro_DL/sigmoid_relu.png)
+![Sigmoid/relu](./Images/04-intro_DL/sigmoid_relu.PNG)
 </center>
 
 |Utilisation : à mettre en fin de réseau pour prédire une probabilité (entre 0 et 1) |Utilisation : entre chaque couche pour dé-linéariser (à coût de calcul faible)|
@@ -91,7 +91,7 @@ Introduction au Deep Learning
 
 ## D'autres fonctions d'activation 
 
-![images fonctions](./Images/04-intro_DL/fonction_activation.png) 
+![images fonctions](./Images/04-intro_DL/fonction_activation.PNG) 
 
 ---
 
@@ -101,7 +101,7 @@ Introduction au Deep Learning
 
 <center>
 
-![image layers](./Images/04-intro_DL/layers.png)
+![image layers](./Images/04-intro_DL/layers.PNG)
 
 ##### profondeur = 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; profondeur = 2 
 
@@ -127,7 +127,7 @@ Un réseau de neurones peut approcher n'importe quelle fonction continue.
 
 + Objectif : classifier une image 32x32 en 10 classes
 
-![image Classif](./Images/04-intro_DL/classif.png)
+![image Classif](./Images/04-intro_DL/classif.PNG)
 
 + Plus de 30 000 paramètres pour un petit réseau et une petite image 
 + Explose avec la résolution de l'image et la complexité du réseau
@@ -147,7 +147,7 @@ Un réseau de neurones peut approcher n'importe quelle fonction continue.
 
 <center> 
   
-![image convolution](./Images/04-intro_DL/convolution2.png)
+![image convolution](./Images/04-intro_DL/convolution2.PNG)
 
 </center>
 
@@ -159,7 +159,7 @@ Un réseau de neurones peut approcher n'importe quelle fonction continue.
 
 ## Convolution sur une image 
 
-![image convolution générale](./Images/04-intro_DL/convolution.png)
+![image convolution générale](./Images/04-intro_DL/convolution.PNG)
 
 - 1 filtre 5x5
 
@@ -182,7 +182,7 @@ Un réseau de neurones peut approcher n'importe quelle fonction continue.
 
 ## Max Pooling : Réduire la dimension
 
-![image Max-Pooling](./Images/04-intro_DL/maxpooling.png)
+![image Max-Pooling](./Images/04-intro_DL/maxpooling.PNG)
 
 ---
 
@@ -194,7 +194,7 @@ Un réseau de neurones peut approcher n'importe quelle fonction continue.
 
  Méthode de régularisation 
 
-![image dropout](./Images/04-intro_DL/dropout.png)
+![image dropout](./Images/04-intro_DL/dropout.PNG)
 
 </center>
 
@@ -204,6 +204,6 @@ Un réseau de neurones peut approcher n'importe quelle fonction continue.
 
 ## Exemple de réseau convolutionnel complet 
 
-![Réseau complet](./Images/04-intro_DL/réseau_complet.png)
+![Réseau complet](./Images/04-intro_DL/réseau_complet.PNG)
 
 
