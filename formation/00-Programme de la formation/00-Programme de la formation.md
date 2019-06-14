@@ -54,7 +54,7 @@ Programme de la formation Deep Learning
 <!-- *page_number: true -->
 
 |Jour 1||
-|---|---|
+|:-:|:-:|
 |09h00 | Introduction au Machine Learning|
 |10h00 | Pause|
 |10h15 | TP : Python pour Data Scientists|
@@ -71,7 +71,7 @@ Programme de la formation Deep Learning
 <!-- *page_number: true -->
 
 |Jour 2 ||
-|---|---|
+|:-:|:-:|
 |09h00 | Questions / rappel |
 |09h30 | TP réseaux convolutionnels : Reconnaissance de chiffres manuscrits avec Keras |
 |10h30 | Pause |
