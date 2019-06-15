@@ -38,7 +38,7 @@
 
 <!-- *page_number: true -->
 
-![Logo météo](./Images/logo2.png)
+![Logo météo](./Images/logo2.PNG)
 
 <br/>
 
@@ -54,7 +54,7 @@ Programme de la formation Deep Learning
 <!-- *page_number: true -->
 
 |Jour 1||
-|:-:|:-:|:-|
+|:-:|:-:|
 |09h00 | Introduction au Machine Learning|
 |10h00 | Pause|
 |10h15 | TP : Python pour Data Scientists|
@@ -71,19 +71,19 @@ Programme de la formation Deep Learning
 <!-- *page_number: true -->
 
 |Jour 2 ||
-|:-:|:-:|:-|
-| 09h00 | Questions / rappel |
-| 09h30 | TP réseaux convolutionnels : Reconnaissance de chiffres manuscrits avec Keras|
-|10h30| Pause|
-|10h45| Transfer Learning TP classification d'images |
-| 12h15| Déjeuner |
-|13h15 |Rappels et Data Augmentation|
-| 13h30| Architectures de réseaux convolutionnels|
-| 14h15| TP segmentation par pixels avec Unet|
-|15h45 |Pause|
-|16h00 |Réseaux récurrents|
-|16h30 |Conclusion / questions / évaluation|
-|17h00 |Fin de la formation|
+|:-:|:-:|
+|09h00 | Questions / rappel |
+|09h30 | TP réseaux convolutionnels : Reconnaissance de chiffres manuscrits avec Keras |
+|10h30 | Pause |
+|10h45 | Transfer Learning TP classification d'images |
+|12h15 | Déjeuner |
+|13h15 | Rappels et Data Augmentation |
+|13h30 | Architectures de réseaux convolutionnels |
+|14h15 | TP segmentation par pixels avec Unet |
+|15h45 | Pause |
+|16h00 | Réseaux récurrents |
+|16h30 | Conclusion / questions / évaluation |
+|17h00 | Fin de la formation |
 
 
 

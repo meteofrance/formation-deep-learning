@@ -37,7 +37,7 @@
 
 <!-- *page_number: true -->
 
-![Logo météo](./Images/logo2.png)
+![Logo météo](./Images/logo2.PNG)
 
 <br/>
 
@@ -57,7 +57,7 @@ Identifier à quel classe appartient chaque pixel
 
 <center> 
 
-![Segmentation](./Images/08-Unet/segmentation.png)
+![Segmentation](./Images/08-Unet/segmentation.PNG)
 
 </center> 
 
@@ -69,7 +69,7 @@ Identifier à quel classe appartient chaque pixel
 
 <center> 
 
-![Architecture Unet](./Images/08-Unet/architecture.png)
+![Architecture Unet](./Images/08-Unet/architecture.PNG)
 
 </center>
 
@@ -88,7 +88,7 @@ Identifier à quel classe appartient chaque pixel
 
 <center>
 
-![Image cygne](./Images/08-Unet/Cygne.png) 
+![Image cygne](./Images/08-Unet/Cygne.PNG) 
 
 </center>
 

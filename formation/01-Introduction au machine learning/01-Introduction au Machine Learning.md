@@ -37,7 +37,7 @@
 
 <!-- *page_number: true -->
 
-![Logo météo](./Images/logo2.png)
+![Logo météo](./Images/logo2.PNG)
 
 <br/>
 
@@ -58,7 +58,7 @@ Grandes catégories d’algorithmes de machine learning
 
 <!-- -->
 
-![types apprentissages](./Images/02-intro_ML/types_apprentissages.png) 
+![types apprentissages](./Images/02-intro_ML/types_apprentissages.PNG) 
 
 ---
 <!-- *page_number: true -->
@@ -67,7 +67,7 @@ Classification / Régression
 -
 <center>
   
-![Regression/Classification](./Images/02-intro_ML/Reg_Clas.png)
+![Regression/Classification](./Images/02-intro_ML/Reg_Clas.PNG)
 
 
 
@@ -88,7 +88,7 @@ Apprentissage supervisé / non supervisé
 
 <center>
   
-![Types de learnings](./Images/02-intro_ML/Types_de_learning.png)
+![Types de learnings](./Images/02-intro_ML/Types_de_learning.PNG)
 
 </center>
 
@@ -142,7 +142,7 @@ La régression linéaire
 
 
 
-![regression lineaire](./Images/02-intro_ML/regression_lineaire.png)
+![regression lineaire](./Images/02-intro_ML/regression_lineaire.PNG)
 
 
 
@@ -156,7 +156,7 @@ La régression linéaire
 #### ■ Comment définir la « meilleure » droite ?
 
 
-![image fonction de coût](./Images/02-intro_ML/fonction_cout.png)
+![image fonction de coût](./Images/02-intro_ML/fonction_cout.PNG)
 
 #### ■ La « meilleure » droite est celle qui minimise la fonction de coût.
 
@@ -182,7 +182,7 @@ La régression linéaire
 
 <center>
 
-![Formule4](./Images/02-intro_ML/formule4.png)
+![Formule4](./Images/02-intro_ML/formule4.PNG)
 
 </center>
 
@@ -198,7 +198,7 @@ m étant le nombre d’échantillons dans le jeu d’entraînement.
   
 ## Comment trouver le minimum de la fonction de coût ?
 
-![image montagne](./Images/02-intro_ML/descente_gradient.png)
+![image montagne](./Images/02-intro_ML/descente_gradient.PNG)
 
 ---
 
@@ -208,7 +208,7 @@ m étant le nombre d’échantillons dans le jeu d’entraînement.
 
 #### ■ La descente de gradient
 
-![Image decente de gradient](./Images/02-intro_ML/convergence.png)
+![Image decente de gradient](./Images/02-intro_ML/convergence.PNG)
 
 ---
   
@@ -220,7 +220,7 @@ m étant le nombre d’échantillons dans le jeu d’entraînement.
 
 <center>
   
-![formule1](./Images/02-intro_ML/formule3.png)
+![formule1](./Images/02-intro_ML/formule3.PNG)
 
 </center>
 Avec h(x) = w<sub>0</sub>.x + w<sub>1</sub> 
@@ -229,7 +229,7 @@ Avec h(x) = w<sub>0</sub>.x + w<sub>1</sub>
 
 <center>
   
-![image learning rate](./Images/02-intro_ML/gradient.png)
+![image learning rate](./Images/02-intro_ML/gradient.PNG)
 </center>
 
 ---
@@ -240,7 +240,7 @@ Avec h(x) = w<sub>0</sub>.x + w<sub>1</sub>
 
 #### ■ Répéter autant de fois que nécessaire :
 
-![image convergence](./Images/02-intro_ML/convergence2.png)
+![image convergence](./Images/02-intro_ML/convergence2.PNG)
 
 
 #### ■ α est le coefficient d’apprentissage (learning rate)
@@ -263,7 +263,7 @@ Avec h(x) = w<sub>0</sub>.x + w<sub>1</sub>
 
 ## Influence du learning rate
 
-![image learning rate](./Images/02-intro_ML/learning_rate.png)
+![image learning rate](./Images/02-intro_ML/learning_rate.PNG)
 
 ---
   
@@ -275,7 +275,7 @@ Avec h(x) = w<sub>0</sub>.x + w<sub>1</sub>
 
 <center>
 
-![image learning rate](./Images/02-intro_ML/gradient.png)
+![image learning rate](./Images/02-intro_ML/gradient.PNG)
 
 </center>
 
@@ -298,7 +298,7 @@ Avec h(x) = w<sub>0</sub>.x + w<sub>1</sub>
 
 <center>
 
-![formule1](./Images/02-intro_ML/formule1.png)
+![formule1](./Images/02-intro_ML/formule1.PNG)
 
 </center>
 
@@ -308,7 +308,7 @@ Avec h(x) = w<sub>0</sub>.x + w<sub>1</sub>
   
 pour i allant de 1 à m, répéter :
 
-![formule1](./Images/02-intro_ML/formule2.png)
+![formule1](./Images/02-intro_ML/formule2.PNG)
 
 </center>
 
@@ -321,7 +321,7 @@ pour i allant de 1 à m, répéter :
 
 |Full batch gradient descent (FBGD)|Stochastic gradient descent (SGD)|
 |:---:|:---:|
-![Full batch/Sochastic](./Images/02-intro_ML/Full_Batch_Stochastic.png)
+![Full batch/Sochastic](./Images/02-intro_ML/Full_batch_Stochastic.PNG)
 
 ---
 
@@ -362,7 +362,7 @@ pour i allant de 1 à m, répéter :
 
 <center>
   
- ![une_epoch](./Images/02-intro_ML/epoch.png)
+ ![une_epoch](./Images/02-intro_ML/epoch.PNG)
  
  </center>
 
@@ -403,13 +403,13 @@ pour i allant de 1 à m, répéter :
 ## Evaluer le modèle
 Première idée : choisir les hyper-paramètres qui fonctionnent le mieux sur le jeu d’entraînement
 
-![entraînement](./Images/02-intro_ML/entrainement.png)
+![entraînement](./Images/02-intro_ML/entrainement.PNG)
 
 ##### Pas bon. Le modèle risque de ne pas être capable de généraliser.
 
 <center>
 
-![image oberfitting](./Images/02-intro_ML/overfitting.png)
+![image oberfitting](./Images/02-intro_ML/overfitting.PNG)
 
 </center>
 
@@ -421,7 +421,7 @@ Première idée : choisir les hyper-paramètres qui fonctionnent le mieux sur le
 
 Deuxième idée : choisir les hyper-paramètres qui fonctionnent le mieux sur un jeu de test
 
-![entraînement test](./Images/02-intro_ML/entrainement_test.png)
+![entraînement test](./Images/02-intro_ML/entrainement_test.PNG)
 
 ##### <center> Pas bon. Aucune garantie que l’algorithme fonctionnera bien sur de nouvelles données. </center> 
 
@@ -434,7 +434,7 @@ Deuxième idée : choisir les hyper-paramètres qui fonctionnent le mieux sur un
 
 Troisième idée : entraîner sur le jeu d’entraînement, choisir les hyper-paramètres qui fonctionnent le mieux sur un jeu de validation, puis une fois le modèle réglé, l’évaluer sur un jeu de test.
 
-![entraînement test_validation](./Images/02-intro_ML/entrainement_test_valid.png)
+![entraînement test_validation](./Images/02-intro_ML/entrainement_test_valid.PNG)
 
 ##### <center> C’est mieux ! </center>
 
@@ -445,7 +445,7 @@ Troisième idée : entraîner sur le jeu d’entraînement, choisir les hyper-pa
 ## Sous-apprentissage - Sur-apprentissage
 
 
-![image sur/sous aprentissage](./Images/02-intro_ML/sur_sous_apprentissage.png)
+![image sur/sous aprentissage](./Images/02-intro_ML/sur_sous_apprentissage.PNG)
 
 |Sous-apprentissage|Bon modèle|Sur-apprentissage|
 |:---:|:---:|:---:|
@@ -457,7 +457,7 @@ Troisième idée : entraîner sur le jeu d’entraînement, choisir les hyper-pa
   
 ## Sous-apprentissage - Sur-apprentissage
 
-![image sur/sous aprentissage](./Images/02-intro_ML/sur_sous_apprentissage2.png)
+![image sur/sous aprentissage](./Images/02-intro_ML/sur_sous_apprentissage2.PNG)
 
 ---
   
