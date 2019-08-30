@@ -16,13 +16,13 @@ Cette formation a été initialement créée par Météo-France pour ses salari�
 La formation alterne cours et travaux pratiques. Elle est prévue pour être suivie dans l'ordre suivant :
 
   * Cours 00    - Programme de la formation
-  * Cours 01    - Introduction au Machine Learning - Vidéo : https://youtu.be/9OhTBItdw18
+  * Cours 01    - Introduction au Machine Learning - Vidéo : https://youtu.be/9OhTBItdw18 (contribuée par Lior Perez)
   * Cours TP 01 - Python pour Data Scientists
   * TP 01       - Python pour Data Scientists
   * TP 02       - Reconnaissance de chiffres manuscrits (modèles linéaires, random forest...)
-  * Cours 02    - Introduction au Deep Learning - Vidéo : https://youtu.be/F3F75xnhG0M
+  * Cours 02    - Introduction au Deep Learning - Vidéo : https://youtu.be/F3F75xnhG0M (contribuée par Lior Perez)
   * Cours 03    - La librairie Keras
-  * TP 03       - Réseaux convolutionnels : reconnaissance de chiffres manuscrits avec Keras
+  * TP 03       - Réseaux convolutionnels : reconnaissance de chiffres manuscrits avec Keras - Vidéo : https://youtu.be/p5HZ5YaCc04 (contribuée par Sirine Hdiji)
   * Cours TP 04 - Visualisation et Transfer Learning
   * TP 04       - Transfer Learning : classification d'images
   * Cours 04    - Architecture de réseaux convolutionnels
